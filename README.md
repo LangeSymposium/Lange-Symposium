@@ -20,7 +20,7 @@ Confirmed speakers at the 2023 Lange Symposium include:
 
 We are offering travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. Travel awards will cover travel within the U.S., meals, and lodging.
 
-Extended deadline to apply for a travel award is **September 10**. Results will be announced September 15.
+Deadline to apply for a travel award is **December 15**. Results will be announced December 30.
 
 ### Accommodation
 
@@ -41,9 +41,7 @@ If you need accommodation, nearby options include the following local hotels.
 
 For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
 
-### Future Events
-The 2023 Lange Symposium on Computational Statistics will be held at UCLA on February 3.
-
 ### Past Events
 - [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
-- [2022 Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/)
+- [2022 July Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/)
+- [2022 October Lange Symposium](https://langesymposium.github.io/2022-October-Symposium/)
