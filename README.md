@@ -1,5 +1,5 @@
 # Lange Symposium on Genomics and Next Generation Computational Statistics for Big Data 
-## 10:00am - 5:30pm, February 3, 2023, at UCLA
+## 9:30am - 5:30pm, February 3, 2023, at UCLA
 We are pleased to announce our Third Annual Lange Symposium. This year's topic is Computational Statistics. This annual event is hosted by the UCLA Department of Computational Medicine and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
 
 The February 3, 2023 Lange Symposium is being held at the UCLA Luskin Conference Center.
@@ -14,13 +14,13 @@ Confirmed speakers at the 2023 Lange Symposium include:
 
 ### Registration
 
-[Click here](https://uclahs.az1.qualtrics.comXXX) to register for the February 3, 2023 Lange Symposium. The registration fee is $XX. The registration deadline is **January 1, 2023**.
+[Click here](https://uclahs.az1.qualtrics.comXXX) to register for the February 3, 2023 Lange Symposium. The registration fee is $XX. The registration deadline is **January 6, 2023**.
 
 ### Diversity Travel Awards
 
 We are offering travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. Travel awards will cover travel within the U.S., meals, and lodging.
 
-Deadline to apply for a travel award is **December 15**. Results will be announced December 30.
+Deadline to apply for a travel award is **December 9, 2022**. Results will be announced December 16 2022.
 
 ### Accommodation
 
