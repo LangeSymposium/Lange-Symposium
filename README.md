@@ -1,5 +1,11 @@
-# Lange Symposium on Genomics and Next Generation Computational Statistics for Big Data 
-## 9:30am - 5:30pm, February 3, 2023, at UCLA
+# Annual Lange Symposium at UCLA
+
+# Genomics and Next Generation Computational Statistics for Big Data
+
+## February 3, 2023
+
+**9:30am - 5:30pm**
+
 We are pleased to announce our Third Annual Lange Symposium. This year's topic is Computational Statistics. This annual event is hosted by the UCLA Department of Computational Medicine and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
 
 The February 3, 2023 Lange Symposium is being held at the UCLA Luskin Conference Center.
