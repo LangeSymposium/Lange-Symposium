@@ -49,7 +49,7 @@ If you need accommodation, nearby options include the following local hotels.
 
 ### Contact
 
-For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
+For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium_2023)
 
 ### Past Events
 - [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
