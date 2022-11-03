@@ -30,7 +30,7 @@ Travel awards will cover travel within the U.S., meals, and lodging.
 
 [Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_0CEvbVQVGSxnM7I) to apply for a Travel Award for the February 3, 2023 Lange Symposium. 
 
-Deadline to apply for a travel award is **December 9, 2022**. Results will be announced December 16 2022.
+The travel award application deadline is **December 9, 2022**. Results will be announced December 16 2022.
 
 ### Accommodation
 
