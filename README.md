@@ -14,11 +14,21 @@ Confirmed speakers at the 2023 Lange Symposium include:
 
 ### Registration
 
-[Click here](https://uclahs.az1.qualtrics.comXXX) to register for the February 3, 2023 Lange Symposium. The registration fee is $XX. The registration deadline is **January 6, 2023**.
+Registration Rates:
+- $30 - Student
+- $50 - Postdoc, Faculty, Professional
+
+[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_8bJEdJEKUs53aCy) to register for the February 3, 2023 Lange Symposium. 
+
+The registration deadline is **January 6, 2023**.
 
 ### Diversity Travel Awards
 
-We are offering travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. Travel awards will cover travel within the U.S., meals, and lodging.
+We are offering travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. 
+
+Travel awards will cover travel within the U.S., meals, and lodging.
+
+[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_0CEvbVQVGSxnM7I) to apply for a Travel Award for the February 3, 2023 Lange Symposium. 
 
 Deadline to apply for a travel award is **December 9, 2022**. Results will be announced December 16 2022.
 
