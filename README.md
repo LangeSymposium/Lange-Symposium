@@ -2,7 +2,7 @@
 
 # Genomics and Next Generation Computational Statistics for Big Data
 
-## February 3, 2023
+## Friday, February 3, 2023
 
 **9:30am - 5:30pm**
 
