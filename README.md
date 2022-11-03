@@ -1,8 +1,8 @@
-# Annual Lange Symposium at UCLA
+# Annual Lange Symposium
 
 # Genomics and Computational Statistics
 
-## Friday, February 3, 2023
+## Friday, February 3, 2023 at UCLA
 
 **9:30am - 5:30pm**
 
