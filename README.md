@@ -7,7 +7,7 @@
 **9:30am - 5:00pm**
 
 We are pleased to announce our Third Annual Lange Symposium. This year's topic is Computational Statistics. This annual event is hosted by the UCLA Department of Computational Medicine and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
-To read about the Ken Lange Symposium Endowment, [click here](https://compmed.ucla.edu/ken-lange-symposium-endowment). To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
+To read about the **[Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment)**. To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
 
 The February 3, 2023 Lange Symposium is being held at the UCLA Luskin Conference Center.
 
