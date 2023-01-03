@@ -16,6 +16,7 @@ Confirmed speakers at the 2023 Lange Symposium include:
 - David Hunter, Penn State
 - Oscar Padilla, UCLA
 - Marc Suchard, UCLA
+- Johann Won, Seoul National University
 - Jason Xu, Duke University
 
 ### Registration
