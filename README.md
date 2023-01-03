@@ -14,7 +14,7 @@ The February 3, 2023 Lange Symposium is being held at the UCLA Luskin Conference
 Confirmed speakers at the 2023 Lange Symposium include:
 - Genevera Allen, Rice University
 - David Hunter, Penn State
-- Oscar Madrid-Padilla, UCLA
+- Oscar Madrid Padilla, UCLA
 - Marc Suchard, UCLA
 - Johann Won, Seoul National University
 - Jason Xu, Duke University
