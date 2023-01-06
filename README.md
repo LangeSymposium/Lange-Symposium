@@ -33,6 +33,8 @@ Registration Rates:
 
 ### Diversity Travel Awards
 
+*Travel Award application is closed. Awards will be offered for future Lange Symposia*
+
 We are offering travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. 
 
 Travel awards will cover travel within the U.S., meals, and lodging.
