@@ -13,14 +13,14 @@ The February 3, 2023 Lange Symposium is being held at the UCLA Luskin Conference
 
 
 Confirmed speakers at the 2023 Lange Symposium include:
-- Genevera Allen, Rice University
-- David Hunter, Penn State
-- Oscar Madrid Padilla, UCLA
-- Marc Suchard, UCLA
+- **Genevera Allen, Rice University**
+- **David Hunter, Penn State**
+- **Oscar Madrid Padilla, UCLA**
+- **Marc Suchard, UCLA**
   - *Approximate is good enough?  Scalable, gradient-based inference for phylogenetics*
-- Johann Won, Seoul National University
+- **Johann Won, Seoul National University**
   - *High-performance statistical computing: experiences with GPUs, clouds, and supercomputing centers*
-- Jason Xu, Duke University
+- **Jason Xu, Duke University**
 
 ### Registration
 
