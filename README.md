@@ -12,7 +12,7 @@ To read about the **[Ken Lange Symposium Endowment, click here](https://compmed
 The February 3, 2023 Lange Symposium is being held at the UCLA Luskin Conference Center.
 
 
-Confirmed speakers at the 2023 Lange Symposium include:
+**Speakers**
 - **Genevera Allen, Rice University**
 - **David Hunter, Penn State**
 - **Oscar Madrid Padilla, UCLA**
