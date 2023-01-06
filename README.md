@@ -17,7 +17,9 @@ Confirmed speakers at the 2023 Lange Symposium include:
 - David Hunter, Penn State
 - Oscar Madrid Padilla, UCLA
 - Marc Suchard, UCLA
+  - *Approximate is good enough?  Scalable, gradient-based inference for phylogenetics*
 - Johann Won, Seoul National University
+  - *High-performance statistical computing: experiences with GPUs, clouds, and supercomputing centers*
 - Jason Xu, Duke University
 
 ### Registration
@@ -28,7 +30,6 @@ Registration Rates:
 
 [Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_8bJEdJEKUs53aCy) to register for the February 3, 2023 Lange Symposium. 
 
-The registration deadline is **January 6, 2023**.
 
 ### Diversity Travel Awards
 
