@@ -21,6 +21,7 @@ The February 3, 2023 Lange Symposium is being held at the UCLA Luskin Conference
 - **Johann Won, Seoul National University**
   - *High-performance statistical computing: experiences with GPUs, clouds, and supercomputing centers*
 - **Jason Xu, Duke University**
+  - *Majorization-minimization and distance-to-set penalties for constrained statistical learning*
 
 ### Registration
 
