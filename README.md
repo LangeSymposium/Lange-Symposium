@@ -14,6 +14,7 @@ The February 3, 2023 Lange Symposium is being held at the UCLA Luskin Conference
 
 **Speakers**
 - **Genevera Allen, Rice University**
+  - *Fast Minipatch Ensemble Strategies for Discovery and Inference*
 - **David Hunter, Penn State**
 - **Oscar Madrid Padilla, UCLA**
 - **Marc Suchard, UCLA**
