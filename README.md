@@ -16,6 +16,7 @@ The February 3, 2023 Lange Symposium is being held at the UCLA Luskin Conference
 - **Genevera Allen, Rice University**
   - *Fast Minipatch Ensemble Strategies for Discovery and Inference*
 - **David Hunter, Penn State**
+  - *Model-Based Clustering:  Some New Ideas, Some Old Ideas*
 - **Oscar Madrid Padilla, UCLA**
 - **Marc Suchard, UCLA**
   - *Approximate is good enough?  Scalable, gradient-based inference for phylogenetics*
