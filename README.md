@@ -18,6 +18,7 @@ The February 3, 2023 Lange Symposium is being held at the UCLA Luskin Conference
 - **David Hunter, Penn State**
   - *Model-Based Clustering:  Some New Ideas, Some Old Ideas*
 - **Oscar Madrid Padilla, UCLA**
+  - *Theory and methods for quantile trend filtering*
 - **Marc Suchard, UCLA**
   - *Approximate is good enough?  Scalable, gradient-based inference for phylogenetics*
 - **Johann Won, Seoul National University**
