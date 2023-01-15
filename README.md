@@ -9,7 +9,7 @@
 We are pleased to announce our Third Annual Lange Symposium. This year's topic is Computational Statistics. This annual event is hosted by the UCLA Department of Computational Medicine and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
 To read about the **[Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment)**. To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
 
-The February 3, 2023 Lange Symposium is being held at the [UCLA Luskin Conference Center](https://goo.gl/maps/17eXgqmZmqwEGKBx6).
+The February 3, 2023 Lange Symposium will be held at the [UCLA Luskin Conference Center](https://goo.gl/maps/17eXgqmZmqwEGKBx6).
 
 
 **Speakers**
@@ -21,7 +21,7 @@ The February 3, 2023 Lange Symposium is being held at the [UCLA Luskin Conferenc
   - *Theory and methods for quantile trend filtering*
 - **Marc Suchard, UCLA**
   - *Approximate is good enough?  Scalable, gradient-based inference for phylogenetics*
-- **Johann Won, Seoul National University**
+- **Joong-Ho Won, Seoul National University**
   - *High-performance statistical computing: experiences with GPUs, clouds, and supercomputing centers*
 - **Jason Xu, Duke University**
   - *Majorization-minimization and distance-to-set penalties for constrained statistical learning*
