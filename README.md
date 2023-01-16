@@ -18,13 +18,13 @@ The February 3, 2023 Lange Symposium will be held at the [UCLA Luskin Conference
 - **David Hunter, Pennsylvania State University**
   - *Model-Based Clustering:  Some New Ideas, Some Old Ideas*
 - **Oscar Madrid Padilla, UCLA**
-  - *Theory and methods for quantile trend filtering*
+  - *Theory and Methods for Quantile Trend Filtering*
 - **Marc Suchard, UCLA**
-  - *Approximate is good enough?  Scalable, gradient-based inference for phylogenetics*
+  - *Approximate is Good Enough?  Scalable, Gradient-based Inference for Phylogenetics*
 - **Joong-Ho Won, Seoul National University**
-  - *High-performance statistical computing: experiences with GPUs, clouds, and supercomputing centers*
+  - *High-Performance Statistical Computing: Experiences with GPUs, Clouds, and Supercomputing Centers*
 - **Jason Xu, Duke University**
-  - *Majorization-minimization and distance-to-set penalties for constrained statistical learning*
+  - *Majorization-Minimization and Distance-to-set Penalties for Constrained Statistical Learning*
 
 ### Registration
 
