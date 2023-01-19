@@ -1,6 +1,6 @@
 # Annual Lange Symposium
 
-# Genomics and Computational Statistics
+# Computational Statistics
 
 ## Friday, February 3, 2023 at UCLA
 
