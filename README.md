@@ -11,7 +11,7 @@ To read about the **[Ken Lange Symposium Endowment, click here](https://compmed
 
 The February 3, 2023 Lange Symposium will be held at the [UCLA Luskin Conference Center](https://goo.gl/maps/17eXgqmZmqwEGKBx6).
 
-**Agenda:**
+**Agenda**
 
 | Time | Speaker | Title |
 |:-----------|:------------|:------------|
