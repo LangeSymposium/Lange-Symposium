@@ -11,20 +11,22 @@ To read about the **[Ken Lange Symposium Endowment, click here](https://compmed
 
 The February 3, 2023 Lange Symposium will be held at the [UCLA Luskin Conference Center](https://goo.gl/maps/17eXgqmZmqwEGKBx6).
 
+**Agenda**
+| Time | Speaker | Title |
+|:-----------|:------------|:------------|
+| 9:30-10:00 am || *Coffee and light refreshments*|
+| 10:00-10:15 am |**Hua Zhou, Ken Lange**<br>UCLA |Welcome|
+| 10:15-11:00 am |**Marc Suchard**<br>UCLA | Approximate is Good Enough? Scalable, gradient-based inference for phylogenetics|
+| 11:00-11:15 am || *Break: Coffee and light refreshments*|
+| 11:15-12:00 pm | **Joong-Ho Won**<br>Seoul National University | High-performance Statistical Computing: Experiences with GPUs, clouds, and supercomputing centers|
+| 12:00-1:30 pm || *Lunch Break (on your own)*|
+| 1:30-2:15 pm |**Genevera Allen**<br> Rice University | Fast Minipatch Ensemble Strategies for Discovery and Inference|
+| 2:15-3:00 pm |**Oscar Madrid Padilla**<br>UCLA  | Theory And Methods for Quantile Trend Filtering|
+| 3:00-3:15 pm || *Break: Coffee and light refreshments*|
+| 3:15-4:00 pm |**Jason Xu**<br>Duke University | Majorization-Minimization and Distance-To-Set Penalties for Constrained Statistical Learning|
+| 4:00-4:45 pm |**David Hunter**<br>Pennsylvania State University | Model-Based Clustering: Some new ideas, some old ideas|
+| 4:45-5:00pm |**Eleazar Eskin**<br>UCLA | Closing remarks|
 
-**Speakers**
-- **Genevera Allen, Rice University**
-  - *Fast Minipatch Ensemble Strategies for Discovery and Inference*
-- **David Hunter, Pennsylvania State University**
-  - *Model-Based Clustering:  Some New Ideas, Some Old Ideas*
-- **Oscar Madrid Padilla, UCLA**
-  - *Theory and Methods for Quantile Trend Filtering*
-- **Marc Suchard, UCLA**
-  - *Approximate is Good Enough?  Scalable, Gradient-based Inference for Phylogenetics*
-- **Joong-Ho Won, Seoul National University**
-  - *High-Performance Statistical Computing: Experiences with GPUs, Clouds, and Supercomputing Centers*
-- **Jason Xu, Duke University**
-  - *Majorization-Minimization and Distance-to-set Penalties for Constrained Statistical Learning*
 
 ### Registration
 
