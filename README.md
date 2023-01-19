@@ -16,8 +16,8 @@ The February 3, 2023 Lange Symposium will be held at the [UCLA Luskin Conference
 | Time | Speaker | Title |
 |:-----------|:------------|:------------|
 | 9:30-10:00 am | | *Coffee and light refreshments*|
-| 10:00-10:15 am | **Hua Zhou, Ken Lange**, UCLA | Welcome |
-| 10:15-11:00 am | **Marc Suchard**, UCLA | Approximate is Good Enough? Scalable, gradient-based inference for phylogenetics|
+| 10:00-10:15 am | **Hua Zhou, Ken Lange**<br>UCLA | Welcome |
+| 10:15-11:00 am | **Marc Suchard**<br>UCLA | Approximate is Good Enough? Scalable, gradient-based inference for phylogenetics|
 | 11:00-11:15 am | | *Break: Coffee and light refreshments* |
 | 11:15-12:00 pm | **Joong-Ho Won**, Seoul National University | High-performance Statistical Computing: Experiences with GPUs, clouds, and supercomputing centers |
 | 12:00-1:30 pm | | *Lunch Break (on your own)* |
