@@ -11,7 +11,19 @@ To read about the **[Ken Lange Symposium Endowment, click here](https://compmed
 
 The February 3, 2023 Lange Symposium will be held at the [UCLA Luskin Conference Center](https://goo.gl/maps/17eXgqmZmqwEGKBx6).
 
-**Agenda**
+### Registration
+
+Registration Rates:
+- $30 - Student
+- $50 - Postdoc, Faculty, Professional
+
+[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_8bJEdJEKUs53aCy) to register for the February 3, 2023 Lange Symposium. 
+
+### Contact
+
+For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium_2023)
+
+### Agenda
 
 | Time | Speaker | Title |
 |:-----------|:------------|:------------|
@@ -27,14 +39,6 @@ The February 3, 2023 Lange Symposium will be held at the [UCLA Luskin Conference
 | 3:15-4:00 pm | **Jason Xu**<br>Duke University | Majorization-Minimization and Distance-To-Set Penalties for Constrained Statistical Learning |
 | 4:00-4:45 pm | **David Hunter**<br>Pennsylvania State University | Model-Based Clustering: Some new ideas, some old ideas |
 | 4:45-5:00 pm | **Eleazar Eskin**<br>UCLA | Closing remarks |
-
-### Registration
-
-Registration Rates:
-- $30 - Student
-- $50 - Postdoc, Faculty, Professional
-
-[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_8bJEdJEKUs53aCy) to register for the February 3, 2023 Lange Symposium. 
 
 
 ### Diversity Travel Awards
@@ -63,10 +67,6 @@ If you need accommodation, nearby options include the following local hotels.
 - [Royal Palace Westwood](http://www.royalpalacewestwood.com/)
 
 - [W Los Angeles Westwood](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
-
-### Contact
-
-For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium_2023)
 
 ### Past Events
 - [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
