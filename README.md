@@ -31,13 +31,13 @@ For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lang
 | 10:00am | **Hua Zhou, Ken Lange**<br>UCLA | Welcome |
 | 10:15am | **Marc Suchard**<br>UCLA | Approximate is good enough?<br>Scalable, gradient-based inference for phylogenetics|
 | 11:00am | | *Break: Coffee and light refreshments* |
-| 11:15pm | **Joong-Ho (Johann) Won**<br>Seoul National University | High-performance statistical computing:<br>Experiences with GPUs, clouds, and supercomputing centers |
+| 11:15pm | **Joong-Ho (Johann) Won**<br>Seoul National University | High-performance statistical computing:<br>experiences with GPUs, clouds, and supercomputing centers |
 | 12:00pm | | *Lunch Break (on your own)* |
 | 1:30pm | **Genevera Allen**<br>Rice University | Fast minipatch ensemble strategies for discovery and inference |
 | 2:15pm | **Oscar Madrid Padilla**<br>UCLA  | Theory and methods for quantile trend filtering |
 | 3:00pm | | *Break: Coffee and light refreshments* |
 | 3:15pm | **Jason Xu**<br>Duke University | Majorization-minimization and distance-to-set<br>penalties for constrained statistical learning |
-| 4:00pm | **David Hunter**<br>Pennsylvania State University | Model-based clustering:<br>Some new ideas, some old ideas |
+| 4:00pm | **David Hunter**<br>Pennsylvania State University | Model-based clustering:<br>some new ideas, some old ideas |
 | 4:45pm | **Eleazar Eskin**<br>UCLA | Closing remarks |
 
 
