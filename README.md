@@ -29,14 +29,14 @@ For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lang
 |:-----------|:------------|:------------|
 | 9:30am | | *Coffee and light refreshments*|
 | 10:00am | **Hua Zhou, Ken Lange**<br>UCLA | Welcome |
-| 10:15am | **Marc Suchard**<br>UCLA | Approximate is Good Enough? Scalable, gradient-based inference for phylogenetics|
+| 10:15am | **Marc Suchard**<br>UCLA | Approximate is Good Enough?<br>Scalable, gradient-based inference for phylogenetics|
 | 11:00am | | *Break: Coffee and light refreshments* |
-| 11:15pm | **Joong-Ho (Johann) Won**<br>Seoul National University | High-performance Statistical Computing: Experiences with GPUs, clouds, and supercomputing centers |
+| 11:15pm | **Joong-Ho (Johann) Won**<br>Seoul National University | High-performance Statistical Computing:<br>Experiences with GPUs, clouds, and supercomputing centers |
 | 12:00pm | | *Lunch Break (on your own)* |
 | 1:30pm | **Genevera Allen**<br>Rice University | Fast Minipatch Ensemble Strategies for Discovery and Inference |
 | 2:15pm | **Oscar Madrid Padilla**<br>UCLA  | Theory And Methods for Quantile Trend Filtering |
 | 3:00pm | | *Break: Coffee and light refreshments* |
-| 3:15pm | **Jason Xu**<br>Duke University | Majorization-Minimization and Distance-To-Set Penalties for Constrained Statistical Learning |
+| 3:15pm | **Jason Xu**<br>Duke University | Majorization-Minimization and<br>Distance-To-Set Penalties for Constrained Statistical Learning |
 | 4:00pm | **David Hunter**<br>Pennsylvania State University | Model-Based Clustering: Some new ideas, some old ideas |
 | 4:45pm | **Eleazar Eskin**<br>UCLA | Closing remarks |
 
