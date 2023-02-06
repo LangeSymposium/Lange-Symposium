@@ -1,5 +1,7 @@
 # Annual Lange Symposium
 
+*The next Lange Symposium will be held in early 2024. Watch this space for details.*
+
 # Computational Statistics
 
 ## Friday, February 3, 2023 at UCLA
@@ -9,7 +11,7 @@
 We are pleased to announce our Third Annual Lange Symposium. This year's topic is Computational Statistics. This annual event is hosted by the UCLA Department of Computational Medicine and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
 To read about the **[Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment)**. To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
 
-The February 3, 2023 Lange Symposium will be held at the [UCLA Luskin Conference Center](https://goo.gl/maps/17eXgqmZmqwEGKBx6).
+The February 3, 2023 Lange Symposium was held at the [UCLA Luskin Conference Center](https://goo.gl/maps/17eXgqmZmqwEGKBx6).
 
 ### Registration
 
@@ -17,13 +19,13 @@ Registration Rates:
 - $30 - Student
 - $50 - Postdoc, Faculty, Professional
 
-[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_8bJEdJEKUs53aCy) to register for the February 3, 2023 Lange Symposium. 
 
 ### Contact
 
 For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium_2023)
 
 ### Agenda
+*Links to recordings of the talks will be posted here soon!*
 
 | Time | Speaker | Title |
 |:-----------|:------------|:------------|
@@ -48,10 +50,6 @@ For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lang
 We are offering travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. 
 
 Travel awards will cover travel within the U.S., meals, and lodging.
-
-[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_0CEvbVQVGSxnM7I) to apply for a Travel Award for the February 3, 2023 Lange Symposium. 
-
-The travel award application deadline is **December 9, 2022**. Results will be announced December 16 2022.
 
 ### Accommodation
 
