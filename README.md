@@ -25,7 +25,7 @@ Registration Rates:
 For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium_2023)
 
 ### Agenda
-*Recordings of the talks can be viewed by clicking on the talk title*
+*Recordings of the talks can be viewed by clicking on the talk titles*
 
 | Time | Speaker | Title and Video Link |
 |:-----------|:------------|:------------|
