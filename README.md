@@ -27,19 +27,19 @@ For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lang
 ### Agenda
 *Links to recordings of the talks will be posted here soon!*
 
-| Time | Speaker | Title |
+| Time | Speaker | Title and Video Link |
 |:-----------|:------------|:------------|
 | 9:30am | | *Coffee and light refreshments*|
 | 10:00am | **Hua Zhou, Ken Lange**<br>UCLA | Welcome |
-| 10:15am | **Marc Suchard**<br>UCLA | Approximate is good enough?<br>Scalable, gradient-based inference for phylogenetics|
+| 10:15am | **Marc Suchard**<br>UCLA | [Approximate is good enough?<br>Scalable, gradient-based inference for phylogenetics](https://www.youtube.com/watch?v=DLPcaZsTAKU&list=PL9erWHMFMErk8z6AOpHYyUf_E6gzySKFE&index=2) |
 | 11:00am | | *Break: Coffee and light refreshments* |
-| 11:15pm | **Joong-Ho (Johann) Won**<br>Seoul National University | High-performance statistical computing:<br>experiences with GPUs, clouds, and supercomputing centers |
+| 11:15pm | **Joong-Ho (Johann) Won**<br>Seoul National University | [High-performance statistical computing:<br>experiences with GPUs, clouds, and supercomputing centers](https://www.youtube.com/watch?v=yCZD8g2vbMc&list=PL9erWHMFMErk8z6AOpHYyUf_E6gzySKFE&index=3) |
 | 12:00pm | | *Lunch Break (on your own)* |
-| 1:30pm | **Genevera Allen**<br>Rice University | Fast minipatch ensemble strategies for discovery and inference |
-| 2:15pm | **Oscar Madrid Padilla**<br>UCLA  | Theory and methods for quantile trend filtering |
+| 1:30pm | **Genevera Allen**<br>Rice University | [Fast minipatch ensemble strategies for discovery and inference](https://www.youtube.com/watch?v=RFblC60uawg&list=PL9erWHMFMErk8z6AOpHYyUf_E6gzySKFE&index=6) |
+| 2:15pm | **Oscar Madrid Padilla**<br>UCLA  | [Theory and methods for quantile trend filtering](https://www.youtube.com/watch?v=5ZQrM4I41Fk&list=PL9erWHMFMErk8z6AOpHYyUf_E6gzySKFE&index=1) |
 | 3:00pm | | *Break: Coffee and light refreshments* |
-| 3:15pm | **Jason Xu**<br>Duke University | Majorization-minimization and distance-to-set<br>penalties for constrained statistical learning |
-| 4:00pm | **David Hunter**<br>Pennsylvania State University | Model-based clustering:<br>some new ideas, some old ideas |
+| 3:15pm | **Jason Xu**<br>Duke University | [Majorization-minimization and distance-to-set<br>penalties for constrained statistical learning](https://www.youtube.com/watch?v=B4FrQ3G6VFM&list=PL9erWHMFMErk8z6AOpHYyUf_E6gzySKFE&index=4) |
+| 4:00pm | **David Hunter**<br>Pennsylvania State University | [Model-based clustering:<br>some new ideas, some old ideas](https://www.youtube.com/watch?v=OTmyhqrNDe0&list=PL9erWHMFMErk8z6AOpHYyUf_E6gzySKFE&index=5) |
 | 4:45pm | **Eleazar Eskin**<br>UCLA | Closing remarks |
 
 
