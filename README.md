@@ -68,5 +68,5 @@ If you need accommodation, nearby options include the following local hotels.
 
 ### Past Events
 - [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
-- [2022 July Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/)
+- [2022 July Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/) (with links to workshop video, slides, and software)
 - [2022 October Lange Symposium](https://langesymposium.github.io/2022-October-Symposium/)
