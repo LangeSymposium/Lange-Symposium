@@ -8,6 +8,16 @@ The Departments of Computational Medicine and Human Genetics in the David Geffen
 
 This annual event was launched in 2020, and is supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. To read about the **[Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment)**. To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
 
+### Contact
+
+For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium_2023)
+
+### Diversity Travel Awards
+
+To honor Professor Lange's committment to diversity in biomedical research, each year we offer travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from historically underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. 
+
+Travel awards cover travel within the U.S., meals, and lodging. For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium_2023)
+
 ### Past Events
 
 Information about past events, including links to selected video recordings, slides, software, exercises, and tutorials, are available at the links below
