@@ -1,6 +1,6 @@
 # Lange Symposium
 
-*The next Lange Symposium will be held at UCLA in early 2024. Watch this space for details.*
+### *The next Lange Symposium will be held at UCLA January 26 2024. Information on Registration and Travel Award application coming soon* ###
 
 ## Annual Lange Symposium on Genomics & Computational Statistics for Big Data
 
