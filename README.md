@@ -2,7 +2,7 @@
 
 ### *The next Lange Symposium will be held at UCLA January 26 2024. Information on Registration and Travel Award application coming soon* ###
 
-## Annual Lange Symposium on Genomics & Computational Statistics for Big Data
+## Annual Lange Symposium on Computational and Statistical Genomics
 
 The Departments of Computational Medicine and Human Genetics in the David Geffen School of Medicine at UCLA host an annual Lange Symposium on Genomics and Computational Statistics for Big Data in honor of UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. Professor Lange is an internationally recognized mathematical biologist with an illustrious career spanning more than four decades. He is, perhaps, best known for his seminal contributions to human genetics, but also more generally for his development of computational algorithms applied to many disciplines, ranging from biomedical imaging to neuroscience. Professor Lange has been a devoted advisor to many PhD students in Biomathematics, Biostatistics, and Human Genetics and has taught scores of students aspiring to enter the field of computational biology, including many leaders in the field. He continues to mentor and inspire students who combine mathematical talent with biological curiosity.
 
