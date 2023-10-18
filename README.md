@@ -4,7 +4,7 @@
 
 **8:30 am - 4:00 pm**
 
-We are pleased to announce our Fourth Annual Lange Symposium. This year's topic is Computational & Statistical Genomics. This annual event is hosted by the UCLA Departments of Computational Medicine and Human Genetics, and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
+We are pleased to announce our Fourth Annual Lange Symposium. This year's topic is *Computational & Statistical Genomics*. This annual event is hosted by the UCLA Departments of Computational Medicine and Human Genetics, and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
 To read about the **[Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment)**. To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
 
 ### Speakers
