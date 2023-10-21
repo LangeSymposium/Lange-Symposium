@@ -30,6 +30,8 @@ Each year we offer travel awards for attendees who will further the goal of incr
 
 Travel awards cover travel within the U.S., meals, and lodging.
 
+**Travel Award Application Deadline: November 24**
+
 To apply for a travel award, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_0fjjHddavvU4aNg)
 
 ### Contact
