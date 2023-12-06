@@ -12,9 +12,11 @@ To read about the **[Ken Lange Symposium Endowment, click here](https://compmed
  - Eric Chi, Rice University
  - Susan Holmes, Stanford University
  - Jessica Li, UCLA
+   - A unified statistical model for single-cell and spatial multi-omics data
  - Donald Martin, North Carolina State University
  - Sriram Sankararaman, UCLA
- - Matthew Stevens, University of Chicago
+ - Matthew Stephens, University of Chicago
+   - Empirical Bayes matrix factorization, and genomic applications
 
 ### Registration
 To register for this event, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_0fjjHddavvU4aNg)
