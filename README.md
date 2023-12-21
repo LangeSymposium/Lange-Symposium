@@ -14,6 +14,7 @@ To read about the **[Ken Lange Symposium Endowment, click here](https://compmed
  - Jessica Li, UCLA
    - A unified statistical model for single-cell and spatial multi-omics data
  - Donald Martin, North Carolina State University
+   - Application of sparse Markov models to the classification of genome sequences
  - Sriram Sankararaman, UCLA
  - Matthew Stephens, University of Chicago
    - Empirical Bayes matrix factorization, and genomic applications
