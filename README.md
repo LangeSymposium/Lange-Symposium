@@ -29,6 +29,8 @@ Registration Rates:
 The January 26, 2024 will be held at the [UCLA Luskin Conference Center](https://goo.gl/maps/17eXgqmZmqwEGKBx6).
 
 ### Diversity Travel Awards
+<span style="color:red">*Application closed*</span>
+
 Each year we offer travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from historically underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students.
 
 Travel awards cover travel within the U.S., meals, and lodging.
