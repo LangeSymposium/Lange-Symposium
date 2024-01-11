@@ -10,7 +10,9 @@ To read about the **[Ken Lange Symposium Endowment, click here](https://compmed
 
 ### Speakers
  - Eric Chi, Rice University
+   - Sampling meets optimization: Proximal MCMC and some applications
  - Susan Holmes, Stanford University
+   - How topic models help refine microbial communities in the study of preterm birth
  - Jessica Li, UCLA
    - A unified statistical model for single-cell and spatial multi-omics data
  - Donald Martin, North Carolina State University
