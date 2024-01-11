@@ -18,6 +18,7 @@ To read about the **[Ken Lange Symposium Endowment, click here](https://compmed
  - Donald Martin, North Carolina State University
    - Application of sparse Markov models to the classification of genome sequences
  - Sriram Sankararaman, UCLA
+   - Understanding the genetic basis of complex traits from Biobank-scale data: Statistical and computational challenges
  - Matthew Stephens, University of Chicago
    - Empirical Bayes matrix factorization, and genomic applications
 
