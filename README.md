@@ -1,4 +1,4 @@
-# 2025 Lange Symposium on Computational & Statistical Genomics
+# 2025 Lange Symposium on Computational & Statistics
 
 ## January 27, 2025 at UCLA
 
