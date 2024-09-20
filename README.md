@@ -8,7 +8,7 @@ The Fifth Annual Lange Symposium will be held January 27, 2025. This year's topi
 
 To read about the [Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment). To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
 
-### Speakers - To be announced soon
+### Speakers - *To be announced soon*
 
 ### Diversity Travel Awards
 <span style="color:red">*Application opening soon*</span>
