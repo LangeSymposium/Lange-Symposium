@@ -8,7 +8,15 @@ The Fifth Annual Lange Symposium will be held January 27, 2025. This year's topi
 
 To read about the [Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment). To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
 
-### Speakers - *To be announced soon*
+### Speakers:
+
+ * Emmanuel Candès, Stanford University
+ * Tamara Kolda, MathSci.ai
+ * Alfonso Landeros, University of California, Riverside
+ * Nancy Zhang, University of Pennsylvania
+ * Hua Zhou, University of California, Los Angeles
+ * Ryan Tibshirani, University of California, Berkeley
+
 
 ### Diversity Travel Awards
 <span style="color:red">*Application opening soon*</span>
