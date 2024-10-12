@@ -13,10 +13,9 @@ To read about the [Ken Lange Symposium Endowment, click here](https://compmed.u
  * Emmanuel Candès, Stanford University
  * Tamara Kolda, MathSci.ai
  * Alfonso Landeros, University of California, Riverside
- * Nancy Zhang, University of Pennsylvania
- * Hua Zhou, University of California, Los Angeles
+ * Rahul Mazumder, MIT
  * Ryan Tibshirani, University of California, Berkeley
-
+ * Nancy Zhang, University of Pennsylvania
 
 ### Diversity Travel Awards
 <span style="color:red">*Application opening soon*</span>
