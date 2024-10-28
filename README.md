@@ -17,12 +17,13 @@ To read about the [Ken Lange Symposium Endowment, click here](https://compmed.u
  * Ryan Tibshirani, University of California, Berkeley
  * Nancy Zhang, University of Pennsylvania
 
+To register, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_6McYboZ5TC1aqIm)
+
 ### Diversity Travel Awards
-<span style="color:red">*Application opening soon*</span>
-
 Each year we offer travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from historically underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students.
-
 Travel awards cover travel within the U.S., meals, and lodging.
+
+To apply for a Travel Award, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_6qTnDHxcgjwWHoG)
 
 ### Contact
 For more information, including information on applying for a travel award, contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
