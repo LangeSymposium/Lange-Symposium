@@ -10,18 +10,18 @@ To read about the [Ken Lange Symposium Endowment, click here](https://compmed.u
 
 ### Speakers:
 
- * Emmanuel Candès, Stanford University
-   * Model-free Selective Inference and Applications to Drug Discovery 
- * Tamara Kolda, MathSci.ai
-   * Tensor Decomposition meets Reproducing Kernel Hilbert Spaces (RKHS)
- * Alfonso Landeros, University of California, Riverside
-   * MM: Past, Present, and Future
- * Rahul Mazumder, MIT
-   * Discrete Optimization in Computational Statistics: Linear Models, LLM Compression, and Beyond
- * Ryan Tibshirani, University of California, Berkeley
-   * Gradient Equilibrium in Online Optimization: The View Beyond Regret
- * Nancy Zhang, University of Pennsylvania
-   * Data Integration in Single Cell and Spatial Omics: What is Erased, and Can you Recover it?
+ * **Emmanuel Candès**, Stanford University
+   * *Model-free Selective Inference and Applications to Drug Discovery*
+ * **Tamara Kolda**, MathSci.ai
+   * *Tensor Decomposition meets Reproducing Kernel Hilbert Spaces (RKHS)*
+ * **Alfonso Landeros**, University of California, Riverside
+   * *MM: Past, Present, and Future*
+ * **Rahul Mazumder**, MIT
+   * *Discrete Optimization in Computational Statistics: Linear Models, LLM Compression, and Beyond*
+ * **Ryan Tibshirani**, University of California, Berkeley
+   * *Gradient Equilibrium in Online Optimization: The View Beyond Regret*
+ * **Nancy Zhang**, University of Pennsylvania
+   * *Data Integration in Single Cell and Spatial Omics: What is Erased, and Can you Recover it?*
 
 To register, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_6McYboZ5TC1aqIm)
 
