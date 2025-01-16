@@ -19,7 +19,7 @@ To read about the [Ken Lange Symposium Endowment, click here](https://compmed.u
  * **Rahul Mazumder**, MIT
    * *Discrete Optimization in Computational Statistics: Linear Models, LLM Compression, and Beyond*
  * **Ryan Tibshirani**, University of California, Berkeley
-   * *Gradient Equilibrium in Online Optimization: The View Beyond Regret*
+   * *Gradient Equilibrium in Online Optimization*
  * **Nancy Zhang**, University of Pennsylvania
    * *Data Integration in Single Cell and Spatial Omics: What is Erased, and Can you Recover it?*
 
