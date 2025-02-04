@@ -11,27 +11,27 @@ The Fifth Annual Lange Symposium was held January 27, 2025. This year's topic wa
 To read about the [Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment). To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
 
 ### Speakers:
-
+*Recordings of the talks can be viewed on the [UCLA Computational Medicine Channel](https://www.youtube.com/@computationalmedicineucla)*
  * **Emmanuel Candès**, Stanford University
    * *Model-free Selective Inference and Applications to Drug Discovery*
+   * [Recording](https://www.youtube.com/watch?v=Rta6zByM26w&list=PL9erWHMFMErkhDaoVeEhWfXofu7WBwlvY&index=2)
  * **Tamara Kolda**, MathSci.ai
    * *Tensor Decomposition meets Reproducing Kernel Hilbert Spaces (RKHS)*
  * **Alfonso Landeros**, University of California, Riverside
    * *MM: Past, Present, and Future*
  * **Rahul Mazumder**, MIT
    * *Discrete Optimization in Computational Statistics: Linear Models, LLM Compression, and Beyond*
+   * [Recording](https://www.youtube.com/watch?v=Lbsh4wgxHHA&list=PL9erWHMFMErkhDaoVeEhWfXofu7WBwlvY&index=3)
  * **Ryan Tibshirani**, University of California, Berkeley
    * *Gradient Equilibrium in Online Optimization*
+   * [Recording](https://www.youtube.com/watch?v=cFIV8cC3dxA&list=PL9erWHMFMErkhDaoVeEhWfXofu7WBwlvY&index=5)
  * **Nancy Zhang**, University of Pennsylvania
    * *Data Integration in Single Cell and Spatial Omics: What is Erased, and Can you Recover it?*
-
-To register, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_6McYboZ5TC1aqIm)
+   * [Recording](https://www.youtube.com/watch?v=qRoRLzZOeBo&list=PL9erWHMFMErkhDaoVeEhWfXofu7WBwlvY&index=5)
 
 ### Diversity Travel Awards
 Each year we offer travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from historically underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students.
 Travel awards cover travel within the U.S., meals, and lodging.
-
-To apply for a Travel Award, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_6qTnDHxcgjwWHoG)
 
 ### Contact
 For more information, including information on applying for a travel award, contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
