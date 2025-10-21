@@ -12,6 +12,7 @@ To read about the [Ken Lange Symposium Endowment, click here](https://compmed.u
  * **Trevor Hastie**, Stanford University
  * **Kenneth Lange**, UCLA
  * **John Novembre**, University of Chicago
+ * **Lieven Vandenberghe**, UCLA
    
 ### Travel Awards
 Our travel award program solicits applications from around the country from scientists and trainees who would be otherwise unable to attend. You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of students who would benefit from access to this material, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students.
