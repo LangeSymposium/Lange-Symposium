@@ -28,6 +28,5 @@ Information about past events, including links to selected video recordings, sli
 - [2023 February Lange Symposium](https://langesymposium.github.io/2023-Lange-Symposium/)
 - [2022 October Lange Symposium](https://langesymposium.github.io/2022-October-Symposium/)
 - [2022 July Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/)
-- [2022 January Lange Symposium](https://langesymposium.github.io/2022-January-Symposium/)
 - *2021: Pandemic hiatus*
 - [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020-Lange-Symposium/)
