@@ -11,6 +11,7 @@ To read about the [Ken Lange Symposium Endowment, click here](https://compmed.u
 ### Confirmed Speakers:
  * **Trevor Hastie**, Stanford University
  * **Kenneth Lange**, UCLA
+ * **Runze Li**, Penn State University
  * **John Novembre**, University of Chicago
  * **Lieven Vandenberghe**, UCLA
    
