@@ -6,21 +6,25 @@
 
 The Sixth Annual Lange Symposium will be held January 26, 2026. The topic will be *Genomics & Computational Statistics*. This annual event is hosted by the UCLA Departments of Computational Medicine and Human Genetics, and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
 
-To read about the [Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment). To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
-
 ### Confirmed Speakers:
  * **Trevor Hastie**, Stanford University
  * **Kenneth Lange**, UCLA
  * **Runze Li**, Penn State University
  * **John Novembre**, University of Chicago
  * **Lieven Vandenberghe**, UCLA
-   
+
+To register for the 2026 Lange Symposium, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_a61ME5JHP7xKyFw).
+
 ### Travel Awards
 Our travel award program solicits applications from around the country from scientists and trainees who would be otherwise unable to attend. You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of students who would benefit from access to this material, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students.
 Travel awards cover travel within the U.S., meals, and lodging.
 
+To apply for a Travel Award, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_ctMkklPp45t8mfI).
+
 ### Contact
 For more information, including information on applying for a travel award, contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
+
+To read about the [Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment). To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
 
 ### Past Events
 
