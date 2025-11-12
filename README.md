@@ -7,6 +7,7 @@
 The Sixth Annual Lange Symposium will be held January 26, 2026. The topic will be *Genomics & Computational Statistics*. This annual event is hosted by the UCLA Departments of Computational Medicine and Human Genetics, and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
 
 ### Confirmed Speakers:
+ * **Emily Fox**, Stanford University
  * **Trevor Hastie**, Stanford University
  * **Kenneth Lange**, UCLA
  * **Runze Li**, Penn State University
