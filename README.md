@@ -1,4 +1,4 @@
-# 2026 Lange Symposium on Computational Statistics
+# 2026 Lange Symposium on Computational Statistics & Biomedical Data Science
 
 ## January 26, 2026 at UCLA
 
