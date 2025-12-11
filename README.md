@@ -20,7 +20,7 @@ To register for the 2026 Lange Symposium, [click here](https://uclahs.az1.qualtr
 Our travel award program solicits applications from around the country from scientists and trainees who would be otherwise unable to attend. You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of students who would benefit from access to this material, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students.
 Travel awards cover travel within the U.S., meals, and lodging.
 
-To apply for a Travel Award, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_ctMkklPp45t8mfI).
+*The travel award application is now closed. Results will be announced December 18.*
 
 ### Contact
 For more information, including information on applying for a travel award, contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
