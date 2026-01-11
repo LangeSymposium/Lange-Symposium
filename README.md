@@ -16,7 +16,7 @@ The Sixth Annual Lange Symposium will be held January 26, 2026. The topic will b
  * **Runze Li**, Penn State University
      * Simultaneous Feature- and Sample-Splitting ADMM for Penalized Rank Regression
  * **John Novembre**, University of Chicago
- * **Lieven Vandenberghe** | UCLA
+ * **Lieven Vandenberghe**, UCLA
 
 To register for the 2026 Lange Symposium, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_a61ME5JHP7xKyFw).
 
