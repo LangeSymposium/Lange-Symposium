@@ -16,6 +16,7 @@ The Sixth Annual Lange Symposium will be held January 26, 2026. The topic will b
  * **Runze Li**, Penn State University
      * Simultaneous Feature- and Sample-Splitting ADMM for Penalized Rank Regression
  * **John Novembre**, University of Chicago
+    * Visualizing time-varying coalescent structure in human and chimpanzee ancestral recombination graphs
  * **Lieven Vandenberghe**, UCLA
     * Proximal algorithms and conic linear optimization
 
