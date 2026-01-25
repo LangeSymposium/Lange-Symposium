@@ -9,14 +9,14 @@ The Sixth Annual Lange Symposium will be held January 26, 2026. The topic will b
 
 ### Schedule
 
-* 9:00 am: Coffee and light refreshments
+* 9:00 am: Coffee and Light Refreshments
 
 * 9:15 am: Welcome and Opening Remarks
 
 * 9:20 am: **John Novembre**, University of Chicago
     * Visualizing Time-Varying Coalescent Structure in Human and Chimpanzee Ancestral Recombination Graphs
 
-* 10:10 am: Break: Coffee and light refreshments
+* 10:10 am: Break: Coffee and Light Refreshments
 
 * 10:20 am: **Emily Fox**, Stanford University
      * Beyond Prediction: Causal Validity in ML-Driven Drug Discovery and Health Monitoring
@@ -24,7 +24,7 @@ The Sixth Annual Lange Symposium will be held January 26, 2026. The topic will b
 * 11:10 am: **Lieven Vandenberghe**, UCLA
     * Proximal Algorithms and Conic Linear Optimization
 
-* 12:00 pm: Lunch break (on your own)
+* 12:00 pm: Lunch Break (on your own)
 
 * 1:30 pm: **Trevor Hastie**, Stanford University
      * Univariate-Guided Sparse Regression
@@ -32,7 +32,7 @@ The Sixth Annual Lange Symposium will be held January 26, 2026. The topic will b
 * 2:20 pm: **Runze Li**, Penn State University
      * Simultaneous Feature- and Sample-Splitting ADMM for Penalized Rank Regression
 
-* 3:10 pm: Break: Coffee and light refreshments
+* 3:10 pm: Break: Coffee and Light Refreshments
 
 * 3:20 pm: **Kenneth Lange**, UCLA
      * Examples of MM Algorithms
