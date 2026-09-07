@@ -1,53 +1,36 @@
 # 2026 Lange Symposium on Computational Statistics & Biomedical Data Science
 
+### <span style="color:red">_Information on the 2027 Lange Symposium coming soon_
+
 ## January 26, 2026 
 ## Optimist Room, Luskin Conference Center, UCLA
 
 **9:00 am - 4:30 pm**
 
-The Sixth Annual Lange Symposium will be held January 26, 2026. The topic will be *Computational Statistics & Biomedical Data Science*. This annual event is hosted by the UCLA Departments of Computational Medicine and Human Genetics, and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
+The Sixth Annual Lange Symposium was held January 26, 2026. The topic was *Computational Statistics & Biomedical Data Science*. This annual event is hosted by the UCLA Departments of Computational Medicine and Human Genetics, and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
 
-### Schedule
-
-* 9:00 am: Coffee and Light Refreshments
-
-* 9:15 am: Welcome and Opening Remarks
-
-* 9:20 am: **John Novembre**, University of Chicago
+### Speakers
+* **John Novembre**, University of Chicago
     * Visualizing Time-Varying Coalescent Structure in Human and Chimpanzee Ancestral Recombination Graphs
 
-* 10:10 am: Break: Coffee and Light Refreshments
-
-* 10:20 am: **Emily Fox**, Stanford University
+* **Emily Fox**, Stanford University
      * Beyond Prediction: Causal Validity in ML-Driven Drug Discovery and Health Monitoring
 
-* 11:10 am: **Lieven Vandenberghe**, UCLA
+* **Lieven Vandenberghe**, UCLA
     * Proximal Algorithms and Conic Linear Optimization
 
-* 12:00 pm: Lunch Break (on your own)
-
-* 1:30 pm: **Trevor Hastie**, Stanford University
+* **Trevor Hastie**, Stanford University
      * Univariate-Guided Sparse Regression
 
-* 2:20 pm: **Runze Li**, Penn State University
+* **Runze Li**, Penn State University
      * Simultaneous Feature- and Sample-Splitting ADMM for Penalized Rank Regression
 
-* 3:10 pm: Break: Coffee and Light Refreshments
-
-* 3:20 pm: **Kenneth Lange**, UCLA
+* **Kenneth Lange**, UCLA
      * Examples of MM Algorithms
-
-* 4:10 pm: Closing Remarks     
-
-### Registration
-
-To register for the 2026 Lange Symposium, [click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_a61ME5JHP7xKyFw).
 
 ### Travel Awards
 Our travel award program solicits applications from around the country from scientists and trainees who would be otherwise unable to attend. You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of students who would benefit from access to this material, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students.
 Travel awards cover travel within the U.S., meals, and lodging.
-
-*The travel award application is now closed. Results will be announced December 18.*
 
 ### Contact
 
