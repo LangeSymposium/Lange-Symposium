@@ -7,9 +7,11 @@ The Seventh Annual Lange Symposium will be held February 5, 2027. The topic will
 ### Speakers
 TBN
 
+<!-- 
 ### Travel Awards
 Our travel award program solicits applications from around the country from scientists and trainees who would be otherwise unable to attend. You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of students who would benefit from access to this material, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students.
 Travel awards cover travel within the U.S., meals, and lodging.
+-->
 
 ### Contact
 
