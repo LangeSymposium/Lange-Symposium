@@ -1,32 +1,11 @@
-# 2026 Lange Symposium on Computational Statistics & Biomedical Data Science
+# 2027 Lange Symposium on Computational Statistics & Biomedical Data Science
 
-### <span style="color:red">_Information on the 2027 Lange Symposium coming soon_
+## February 5, 2027
 
-## January 26, 2026 
-## Optimist Room, Luskin Conference Center, UCLA
-
-**9:00 am - 4:30 pm**
-
-The Sixth Annual Lange Symposium was held January 26, 2026. The topic was *Computational Statistics & Biomedical Data Science*. This annual event is hosted by the UCLA Departments of Computational Medicine and Human Genetics, and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
+The Seventh Annual Lange Symposium will be held February 5, 2027. The topic will be *Computational Statistics & Biomedical Data Science*. This annual event is hosted by the UCLA Departments of Computational Medicine and Human Genetics, and supported in part by a grant from the National Human Genome Research Institute; R25 HG011845. The Annual Lange Symposium was launched in 2020 to honor UCLA Professor and National Academy of Sciences Fellow Kenneth Lange. The event celebrates the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades.
 
 ### Speakers
-* **John Novembre**, University of Chicago
-    * Visualizing Time-Varying Coalescent Structure in Human and Chimpanzee Ancestral Recombination Graphs
-
-* **Emily Fox**, Stanford University
-     * Beyond Prediction: Causal Validity in ML-Driven Drug Discovery and Health Monitoring
-
-* **Lieven Vandenberghe**, UCLA
-    * Proximal Algorithms and Conic Linear Optimization
-
-* **Trevor Hastie**, Stanford University
-     * Univariate-Guided Sparse Regression
-
-* **Runze Li**, Penn State University
-     * Simultaneous Feature- and Sample-Splitting ADMM for Penalized Rank Regression
-
-* **Kenneth Lange**, UCLA
-     * Examples of MM Algorithms
+TBN
 
 ### Travel Awards
 Our travel award program solicits applications from around the country from scientists and trainees who would be otherwise unable to attend. You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of students who would benefit from access to this material, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students.
@@ -41,6 +20,7 @@ To read about the [Ken Lange Symposium Endowment, click here](https://compmed.u
 ### Past Events
 
 Information about past events, including links to selected video recordings, slides, software, exercises, and tutorials, are available at the links below
+- [2026 January Lange Symposium](https://langesymposium.github.io/2026-Lange-Symposium/)
 - [2025 January Lange Symposium](https://langesymposium.github.io/2025-Lange-Symposium/)
 - [2024 January Lange Symposium](https://langesymposium.github.io/2024-Lange-Symposium/)
 - [2023 February Lange Symposium](https://langesymposium.github.io/2023-Lange-Symposium/)
