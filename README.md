@@ -8,7 +8,7 @@ The Seventh Annual Lange Symposium will be held February 5, 2027. The topic will
 * **Patrick Groenen,** University Rotterdam
 * **Volodymyr Minin,** UC Irvine
 * **Xiao-Li Meng,** Harvard University
-* * **Guoliang Tian,** Southern University of Science and Technology 
+* **Guoliang Tian,** Southern University of Science and Technology 
 * **Daniela Witten,** University of Washington
 * **Yuhua Zhu,** UCLA
 
