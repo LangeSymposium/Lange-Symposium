@@ -18,6 +18,9 @@ Our travel award program solicits applications from around the country from scie
 Travel awards cover travel within the U.S., meals, and lodging.
 -->
 
+### To Register
+[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_bQonbYiq0YmEpng)
+
 ### Contact
 
 For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
