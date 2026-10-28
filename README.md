@@ -25,7 +25,7 @@ Travel awards cover travel within the U.S., meals, and lodging.
 
 For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
 
-To read about the [Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment). To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
+To read about the [Ken Lange Symposium Fund, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment). To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
 
 ### Past Events
 
